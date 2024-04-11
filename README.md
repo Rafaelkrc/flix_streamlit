@@ -1,4 +1,4 @@
-Fliz Streamlit
+Flix Streamlit
 
 Projeto de integração com a API: https://github.com/Rafaelkrc/flix_api
 
